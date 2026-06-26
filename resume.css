@@ -62,12 +62,13 @@ hr{
 .align{
      
     display:flex;
-    flex-wrap: wrap;
-    justify-content:space-between ;
+    flex-direction:row;
+    
 }
 .right{
     width:600px;
-    margin-right: 30px;
+    margin-left:40px;
+
 }
 
 .language{
