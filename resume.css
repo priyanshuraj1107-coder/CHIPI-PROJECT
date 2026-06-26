@@ -48,7 +48,7 @@ hr{
    background-color: black;
 }
 .left{
-    width: 45%;
+    width: 600px;
 }
 .exprience{
     margin-left:70px;
@@ -63,11 +63,12 @@ hr{
      
     display:flex;
     flex-direction:row;
-    
+    justify-content: space-around
 }
 .right{
-    width:600px;
+   width:600px;
     margin-left:40px;
+   
 
 }
 
